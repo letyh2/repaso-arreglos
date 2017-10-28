@@ -6,4 +6,4 @@
 4.- for,condiciones,(if,if else);
 
 ##Diagrama de flujo
-![Diagrama de flujo](diagrama de flujo.jpg)
+![Diagrama de flujo](diagrama.jpg)
